@@ -12,3 +12,5 @@ Reference: https://kops.sigs.k8s.io/getting_started/aws/
 1. kops create cluster --name=${NAME} --cloud=aws --zones=ap-south-1a --yes
 2. kops validate cluster
 3. (if any update requierd) kops update cluster 
+4. kops delete cluster --name ${NAME} --yes         //to delete the cluster
+
