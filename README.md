@@ -7,5 +7,5 @@ This is for Kubernetes cluster setup and configuration
 
 
 ###### Extra Study: 
-1. [Efficiently Expose Services on Kubernetes](https://medium.com/stakater/efficiently-expose-services-on-kubernetes-494a80f88aad
+1. [Efficiently Expose Services on Kubernetes](https://medium.com/stakater/efficiently-expose-services-on-kubernetes-494a80f88aad)
 
